@@ -1,0 +1,31 @@
+[
+  {
+		"name": "Colziand",
+		"leaderName": "Raymond Sheen Caballero",
+		"adjective": ["Colziand"],
+          	"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	  	"favoredReligion": "Christianity",
+	  
+		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
+                "startIntroPart2": "Will you once more rule the world for the Lord's desire.",
+	  	
+		"declaringWar": "Hence, Forth!",
+		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
+		"defeated": "Colziand is its people, me, and Him.",
+		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
+		"neutralHello": "Oh greeting high above",
+		"hateHello": "You speak in pride, I don't wanna hear it",
+		"tradeRequest": "It appears that you have a golden interest of our goods",
+		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Ravdon Mond", "Sabert Zhang", 
+			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
+		"outerColor": [255,128,0],
+		"innerColor": [255,255,0], 
+		"uniqueName": "Domain Rule",
+		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
+			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
+			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
+			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-80]% Culture cost of adopting new Policies",
+			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+100] XP"]
+	}
+  ]
