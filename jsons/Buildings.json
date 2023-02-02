@@ -1,0 +1,92 @@
+[
+{
+		"name": "Ancient",
+		"replaces": "Shrine",
+		"uniqueTo": "Colziand",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+  {
+		"name": "Classic",
+		"replaces": "Market",
+		"uniqueTo": "Colziand",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+  {
+		"name": "Medieval",
+		"replaces": "University",
+		"uniqueTo": "Colziand",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","Free Technology"],
+		"requiredTech": "Education"
+	},
+  {
+		"name": "Renaissance",
+		"replaces": "Bank",
+		"uniqueTo": "Colziand",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+  {
+		"name": "Industrial",
+    "replaces": "Military Academy",
+		"uniqueTo": "Colziand",
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+  {
+		"name": "Modern",
+    "replaces": "Research Lab",
+		"uniqueTo": "Colziand",
+		"science": 4,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+    "uniques": ["Free Technology"],
+		"requiredTech": "Plastics"
+	},
+  {
+		"name": "Atomic",
+    "replaces": "Nuclear Plant",
+		"uniqueTo": "Colziand",
+		"production": 5,
+		"percentStatBonus": {"production": 15},
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredResource": "Uranium",
+		"requiredTech": "Nuclear Fission",
+		"uniques": ["Free Social Policy"]
+	},
+  {
+		"name": "Information",
+    "replaces": "Bomb Shelter",
+		"uniqueTo": "Colziand",
+		"cost": 300,
+		"maintenance": 1,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]","Free Social Policy"]
+	},
