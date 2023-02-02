@@ -49,7 +49,7 @@
 	},
   {
 		"name": "Industrial",
-    "replaces": "Military Academy",
+    		"replaces": "Military Academy",
 		"uniqueTo": "Colziand",
 		"hurryCostModifier": 0,
 		"maintenance": 1,
@@ -59,19 +59,19 @@
 	},
   {
 		"name": "Modern",
-    "replaces": "Research Lab",
+    		"replaces": "Research Lab",
 		"uniqueTo": "Colziand",
 		"science": 4,
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 1},
 		"requiredBuilding": "Public School",
 		"maintenance": 3,
-    "uniques": ["Free Technology"],
+    		"uniques": ["Free Technology"],
 		"requiredTech": "Plastics"
 	},
   {
 		"name": "Atomic",
-    "replaces": "Nuclear Plant",
+    		"replaces": "Nuclear Plant",
 		"uniqueTo": "Colziand",
 		"production": 5,
 		"percentStatBonus": {"production": 15},
@@ -83,11 +83,11 @@
 	},
   {
 		"name": "Information",
-    "replaces": "Bomb Shelter",
+    		"replaces": "Bomb Shelter",
 		"uniqueTo": "Colziand",
 		"cost": 300,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]","Free Social Policy"]
-	},
+	}
 ]
