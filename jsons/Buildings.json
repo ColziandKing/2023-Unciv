@@ -8,7 +8,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Free Social Policy"]
+		"uniques": ["Free Social Policy","[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"]
 	},
   {
 		"name": "Classic",
