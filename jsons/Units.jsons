@@ -1,0 +1,18 @@
+[
+{
+		"name": "Caballero",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles","Beseige"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+  ]
