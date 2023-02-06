@@ -3,12 +3,12 @@
 		"name": "Ancient",
 		"replaces": "Shrine",
 		"uniqueTo": "Colziand",
-		"faith": 2,
+		"culture": 2,
 		"science": 2,
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Free Social Policy"]
 	},
   {
 		"name": "Classic",
@@ -32,7 +32,7 @@
 		"specialistSlots": {"Scientist": 2},
 		"culture": 3,
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","Free Technology"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	},
   {
@@ -78,8 +78,7 @@
 		"requiredBuilding": "Factory",
 		"maintenance": 3,
 		"requiredResource": "Uranium",
-		"requiredTech": "Nuclear Fission",
-		"uniques": ["Free Social Policy"]
+		"requiredTech": "Nuclear Fission"
 	},
   {
 		"name": "Information",
@@ -88,6 +87,6 @@
 		"cost": 300,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
-		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]","Free Social Policy"]
+		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]"]
 	}
 ]
