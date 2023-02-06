@@ -23,7 +23,7 @@
 		"requiredTech": "Currency"
 	},
   {
-		"name": "Medieval",
+		"name": "Fullysian",
 		"replaces": "University",
 		"uniqueTo": "Colziand",
 		"maintenance": 2,
