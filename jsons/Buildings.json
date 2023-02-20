@@ -66,8 +66,41 @@
 		"requiredTech": "Military Science"
 	},
 	// Modern Era
-	
-	
+	{
+		"name": "Orlegciuhn Restau",
+		"culture": 3,
+		"percentStatBonus": {"culture": 44},
+		"requiredBuilding": "Museum",
+		"maintenance": 4,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	// Atomic Era
+	{
+		"name": "Salumian Center",
+		"production": 5,
+		"percentStatBonus": {"production": 15},
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredTech": "Ecology",
+		"uniques": ["Provides [2] [Aluminum]","Limited to [5] per Civilization"]
+	},
+	// Information Era
+	{
+		"name": "Rhuffelj Homes",
+		"cost": 400,
+		"maintenance": 1,
+		"requiredTech": "Telecommunications",
+		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]"]
+	},
+	// All Eras
+	{
+		"name": "Stronghold",
+		"hurryCostModifier": 25,
+		"maintenance": 5,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},"[Military] units gain the [Blitz] promotion",
 ]
 "Must be on [Fresh Water]"
 "Free Social Policy"
