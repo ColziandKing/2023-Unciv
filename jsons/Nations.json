@@ -22,10 +22,10 @@
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
-		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
+		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
-			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-80]% Culture cost of adopting new Policies",
+			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-50]% Culture cost of adopting new Policies",
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+100] XP"
 			    ]
 	}
