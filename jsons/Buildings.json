@@ -99,7 +99,7 @@
 		"hurryCostModifier": 35,
 		"maintenance": 10,
 		"uniques": ["[Military] units gain the [Besiege] promotion", "[Military] units gain the [Blitz] promotion", "Ignores terrain cost",
-			    "Destroyed when the city is captured"],
+			    "[-50]% Culture cost of adopting new Policies", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 ]
