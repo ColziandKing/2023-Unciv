@@ -1,92 +1,73 @@
 [
+// Ancient Era
 {
-		"name": "Ancient",
-		"replaces": "Shrine",
+		"name": "Kingdom Hall",
+		"production": 3,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"faith": 2,
+		"cityStrength": 2,
+		"cost": 100,
 		"uniqueTo": "Colziand",
-		"culture": 2,
+		"requiredTech": "Iron Working"
+		"uniques": ["Can only be built [in capital city]","Unsellable","Free Social Policy"],
+		"quote": "'Here starts the rule in which it will lead us to the bright future' - Colziand King"
+	},
+	// Classic Era
+{
+		"name": "Empire Atrium",
+		"production": 6,
 		"science": 2,
-		"cost": 40,
-		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Free Social Policy","[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"]
-	},
-  {
-		"name": "Classic",
-		"replaces": "Market",
-		"uniqueTo": "Colziand",
 		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-  {
-		"name": "Fullysian",
-		"replaces": "University",
+		"culture": 2,
+		"faith": 4,
+		"cityStrength": 4,
+		"cost": 500,
 		"uniqueTo": "Colziand",
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
-		"culture": 3,
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Education"
+		"requiredTech": "Metal Casting"
+		"uniques": ["Can only be built [in capital city]","Unsellable","Free Technology"],
 	},
-  {
-		"name": "Renaissance",
+	// Medieval Era
+	{
+		"name": "Domain Amplitude",
+		"production": 9,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"faith": 6,
+		"cityStrength": 6,
+		"cost": 1000,
+		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
+		"uniqueTo": "Colziand",
+		"requiredTech": "Steel"
+		"uniques": ["Can only be built [in capital city]","Unsellable","Free [Great Prophet, Great Scientist, Great General, Great Engineer, Great Artist, Great Artist] appears"],
+	},
+	// Renaissance Era
+	{
+		"name": "Fullysianth Chant",
 		"replaces": "Bank",
 		"uniqueTo": "Colziand",
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
-		"happiness": 2,
+		"happiness": 3,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 30},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-  {
-		"name": "Industrial",
-    		"replaces": "Military Academy",
-		"uniqueTo": "Colziand",
+	// Industrial Era
+	{
+		"name": "Suzainswellia Academy",
 		"hurryCostModifier": 0,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
-  {
-		"name": "Modern",
-    		"replaces": "Research Lab",
-		"uniqueTo": "Colziand",
-		"science": 4,
-		"percentStatBonus": {"science": 50},
-		"specialistSlots": {"Scientist": 1},
-		"requiredBuilding": "Public School",
-		"maintenance": 3,
-    		"uniques": ["Free Technology"],
-		"requiredTech": "Plastics"
-	},
-  {
-		"name": "Atomic",
-    		"replaces": "Nuclear Plant",
-		"uniqueTo": "Colziand",
-		"production": 5,
-		"percentStatBonus": {"production": 15},
-		"requiredBuilding": "Factory",
-		"maintenance": 3,
-		"requiredResource": "Uranium",
-		"requiredTech": "Nuclear Fission"
-	},
-  {
-		"name": "Information",
-    		"replaces": "Bomb Shelter",
-		"uniqueTo": "Colziand",
-		"cost": 300,
-		"maintenance": 1,
-		"requiredTech": "Telecommunications",
-		"uniques": ["Population loss from nuclear attacks [-75]% [in this city]"]
-	}
+	// Modern Era
+	
+	
 ]
+"Must be on [Fresh Water]"
+"Free Social Policy"
