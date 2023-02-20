@@ -96,11 +96,12 @@
 	// All Eras
 	{
 		"name": "Stronghold",
-		"hurryCostModifier": 25,
-		"maintenance": 5,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"hurryCostModifier": 35,
+		"maintenance": 10,
+		"uniques": ["[Military] units gain the [Besiege] promotion", "[Military] units gain the [Blitz] promotion", "Ignores terrain cost",
+			    "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
-	},"[Military] units gain the [Blitz] promotion",
+	},
 ]
 "Must be on [Fresh Water]"
 "Free Social Policy"
