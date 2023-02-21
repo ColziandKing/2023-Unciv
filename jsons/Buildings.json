@@ -10,13 +10,15 @@
 		"cityStrength": 2,
 		"cost": 100,
 		"uniqueTo": "Colziand",
+		"isWonder": true,
 		"requiredTech": "Iron Working"
-		"uniques": ["Can only be built [in capital city]","Unsellable","Free Social Policy"],
+		"uniques": ["Free Social Policy"],
 		"quote": "'Here starts the rule in which it will lead us to the bright future' - Colziand King"
 	},
 	// Classic Era
 {
 		"name": "Empire Atrium",
+		"isWonder": true,
 		"production": 6,
 		"science": 2,
 		"gold": 2,
@@ -26,11 +28,12 @@
 		"cost": 500,
 		"uniqueTo": "Colziand",
 		"requiredTech": "Metal Casting"
-		"uniques": ["Can only be built [in capital city]","Unsellable","Free Technology"],
+		"uniques": ["Free Technology"],
 	},
 	// Medieval Era
 	{
 		"name": "Domain Amplitude",
+		"isWonder": true,
 		"production": 9,
 		"science": 3,
 		"gold": 3,
@@ -41,7 +44,7 @@
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
-		"uniques": ["Can only be built [in capital city]","Unsellable","Free [Great Prophet, Great Scientist, Great General, Great Engineer, Great Artist, Great Artist] appears"],
+		"uniques": ["Free [Great Prophet, Great Scientist, Great General, Great Engineer, Great Artist, Great Artist] appears"],
 	},
 	// Renaissance Era
 	{
@@ -97,9 +100,9 @@
 		"name": "Stronghold",
 		"hurryCostModifier": 35,
 		"maintenance": 5,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]","All newly-trained [any] units [in this city] receive the [Buffalo Horns] promotion",
-			    "All newly-trained [any] units [in this city] receive the [Beseige] promotion",
-			    "All newly-trained [any] units [in this city] receive the [Blitz] promotion","Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]","All newly-trained [Military] units [in this city] receive the [Ignores terrain cost] promotion",
+			    "All newly-trained [Military] units [in this city] receive the [Beseige] promotion",
+			    "All newly-trained [Military] units [in this city] receive the [Blitz] promotion","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}
 ]
