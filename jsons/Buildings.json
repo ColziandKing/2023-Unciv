@@ -100,9 +100,8 @@
 		"name": "Stronghold",
 		"hurryCostModifier": 35,
 		"maintenance": 5,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]","All newly-trained [Military] units [in this city] receive the [Ignores terrain cost] promotion",
-			    "All newly-trained [Military] units [in this city] receive the [Beseige] promotion",
-			    "All newly-trained [Military] units [in this city] receive the [Blitz] promotion","Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured"
+			    "All newly-trained [Military] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
 	}
 ]
