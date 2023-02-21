@@ -99,7 +99,7 @@
 		"maintenance": 5,
 		"uniques": ["New [Military] units start with [30] Experience [in this city]","All newly-trained [any] units [in this city] receive the [Buffalo Horns] promotion",
 			    "All newly-trained [any] units [in this city] receive the [Beseige] promotion",
-			    "All newly-trained [any] units [in this city] receive the [Buffalo Horns] promotion","Destroyed when the city is captured"],
+			    "All newly-trained [any] units [in this city] receive the [Blitz] promotion","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}
 ]
