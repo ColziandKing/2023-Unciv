@@ -10,7 +10,7 @@
 		"cityStrength": 2,
 		"cost": 100,
 		"uniqueTo": "Colziand",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"requiredTech": "Iron Working"
 		"uniques": ["Free Social Policy"],
 		"quote": "'Here starts the rule in which it will lead us to the bright future' - Colziand King"
@@ -18,7 +18,7 @@
 	// Classic Era
 {
 		"name": "Empire Atrium",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"production": 6,
 		"science": 2,
 		"gold": 2,
@@ -34,7 +34,7 @@
 	// Medieval Era
 	{
 		"name": "Domain Amplitude",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"production": 9,
 		"science": 3,
 		"gold": 3,
