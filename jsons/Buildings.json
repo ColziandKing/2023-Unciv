@@ -44,7 +44,7 @@
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
-		"uniques": ["Free [Great Prophet, Great Scientist, Great General, Great Engineer, Great Artist, Great Artist] appears"],
+		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
 	},
 	// Renaissance Era
 	{
