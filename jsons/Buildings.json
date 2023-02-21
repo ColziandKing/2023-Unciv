@@ -29,6 +29,7 @@
 		"uniqueTo": "Colziand",
 		"requiredTech": "Metal Casting"
 		"uniques": ["Free Technology"],
+		"quote": "'Our expanse is going further beyond the horizon skies of fate' - Colziand King"
 	},
 	// Medieval Era
 	{
@@ -45,6 +46,7 @@
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
 		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
+		"quote": "'Long it has started and now it still continues, our Lord leads us' - Colziand King"
 	},
 	// Renaissance Era
 	{
@@ -61,6 +63,7 @@
 	// Industrial Era
 	{
 		"name": "Suzainswellia Academy",
+		"uniqueTo": "Colziand",
 		"hurryCostModifier": 0,
 		"maintenance": 2,
 		"requiredBuilding": "Armory",
@@ -70,6 +73,7 @@
 	// Modern Era
 	{
 		"name": "Orlegciuhn Restau",
+		"uniqueTo": "Colziand",
 		"culture": 3,
 		"percentStatBonus": {"culture": 44},
 		"requiredBuilding": "Museum",
@@ -80,6 +84,7 @@
 	// Atomic Era
 	{
 		"name": "Salumian Center",
+		"uniqueTo": "Colziand",
 		"production": 5,
 		"percentStatBonus": {"production": 15},
 		"requiredBuilding": "Factory",
@@ -90,6 +95,7 @@
 	// Information Era
 	{
 		"name": "Rhuffelj Homes",
+		"uniqueTo": "Colziand",
 		"cost": 400,
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
@@ -98,6 +104,7 @@
 	// All Eras
 	{
 		"name": "Stronghold",
+		"uniqueTo": "Colziand",
 		"hurryCostModifier": 35,
 		"maintenance": 5,
 		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured"
