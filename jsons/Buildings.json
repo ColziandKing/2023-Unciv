@@ -46,7 +46,6 @@
 	// Renaissance Era
 	{
 		"name": "Fullysianth Chant",
-		"replaces": "Bank",
 		"uniqueTo": "Colziand",
 		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
@@ -98,8 +97,9 @@
 		"name": "Stronghold",
 		"hurryCostModifier": 35,
 		"maintenance": 5,
-		"uniques": ["[Military] units gain the [Besiege] promotion", "[Military] units gain the [Blitz] promotion", "[Military] units gain the [Ignores terrain cost] promotion",
-			    "[-10]% Culture cost of adopting new Policies", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]","All newly-trained [any] units [in this city] receive the [Buffalo Horns] promotion",
+			    "All newly-trained [any] units [in this city] receive the [Beseige] promotion",
+			    "All newly-trained [any] units [in this city] receive the [Buffalo Horns] promotion","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}
 ]
