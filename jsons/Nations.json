@@ -25,8 +25,7 @@
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
-			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled",
-			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+100] XP"
-			    ]
+			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[Military] units gain the [Blitz] promotion", "[Military] units gain the [Ignores terrain cost] promotion",
+			    "[-10]% Culture cost of adopting new Policies", "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+100] XP"]
 	}
   ]
