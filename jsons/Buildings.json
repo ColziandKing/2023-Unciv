@@ -126,13 +126,13 @@
 	},
 {
 		"name": "Supermarket",
-		"production": 5,
+		"food": 5,
 		"culture": 5,
 		"requiredTech": "Future Tech"
 		"maintenance": 20,
 	},{
 		"name": "Department Store",
-		"happiness": 5,
+		"production": 5,
 		"gold": 5,
 		"requiredTech": "Future Tech"
 		"maintenance": 20,
