@@ -151,7 +151,6 @@
 		"science": 3,
 		"maintenance": 5,
 		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured",
-			    "All newly-trained [relevant] units [in this city] receive the [Beseige] promotion",
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
 	}
