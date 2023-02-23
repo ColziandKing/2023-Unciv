@@ -2,6 +2,7 @@
 // Ancient Era
 {
 		"name": "Kingdom Hall",
+		"happiness": 1,
 		"production": 3,
 		"science": 1,
 		"gold": 1,
@@ -18,6 +19,7 @@
 {
 		"name": "Empire Atrium",
 		"isNationalWonder": true,
+		"happiness": 2,
 		"production": 6,
 		"science": 2,
 		"gold": 2,
@@ -33,6 +35,7 @@
 	{
 		"name": "Domain Amplitude",
 		"isNationalWonder": true,
+		"happiness": 3,
 		"production": 9,
 		"science": 3,
 		"gold": 3,
@@ -97,6 +100,48 @@
 		"maintenance": 1,
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]"]
+	},
+	// Future Era
+	{
+		"name": "All Districts",
+		"production": 10,
+		"science": 10,
+		"gold": 10,
+		"culture": 10,
+		"faith": 10,
+		"happiness": 10,
+		"cityStrength": 20,
+		"cost": 10000,
+		"greatPersonPoints": {"Great Scientist": 5, "Great General": 5, "Great Engineer": 5, "Great Artist": 5, "Great Merchant": 5, "Great Prophet": 5},
+		"requiredTech": "Future Tech"
+		"maintenance": 20,
+		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
+	},
+	{
+		"name": "Carnival",
+		"happiness": 5,
+		"faith": 5,
+		"requiredTech": "Future Tech"
+		"maintenance": 20,
+	},
+{
+		"name": "Supermarket",
+		"production": 5,
+		"culture": 5,
+		"requiredTech": "Future Tech"
+		"maintenance": 20,
+	},{
+		"name": "Department Store",
+		"happiness": 5,
+		"gold": 5,
+		"requiredTech": "Future Tech"
+		"maintenance": 20,
+	},{
+		"name": "Aquarium",
+		"happiness": 5,
+		"science": 5,
+		"requiredTech": "Future Tech"
+		"maintenance": 20,
 	},
 	// All Eras
 	{
