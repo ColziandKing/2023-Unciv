@@ -10,10 +10,9 @@
 		"cityStrength": 2,
 		"cost": 100,
 		"uniqueTo": "Colziand",
-		"isWonder": true,
+		"isNationalWonder": true,
 		"requiredTech": "Iron Working"
 		"uniques": ["Free Social Policy"],
-		"quote": "'Here starts the rule in which it will lead us to the bright future' - Colziand King"
 	},
 	// Classic Era
 {
@@ -29,7 +28,6 @@
 		"uniqueTo": "Colziand",
 		"requiredTech": "Metal Casting"
 		"uniques": ["Free Technology"],
-		"quote": "'Our expanse is going further beyond the horizon skies of fate' - Colziand King"
 	},
 	// Medieval Era
 	{
@@ -46,7 +44,6 @@
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
 		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
-		"quote": "'Long it has started and now it still continues, our Lord leads us' - Colziand King"
 	},
 	// Renaissance Era
 	{
