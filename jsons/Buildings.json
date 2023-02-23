@@ -10,7 +10,7 @@
 		"cityStrength": 2,
 		"cost": 100,
 		"uniqueTo": "Colziand",
-		"isNationalWonder": true,
+		"isWonder": true,
 		"requiredTech": "Iron Working"
 		"uniques": ["Free Social Policy"],
 		"quote": "'Here starts the rule in which it will lead us to the bright future' - Colziand King"
@@ -106,9 +106,11 @@
 		"name": "Stronghold",
 		"uniqueTo": "Colziand",
 		"hurryCostModifier": 35,
+		"science": 3,
 		"maintenance": 5,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured"
-			    "All newly-trained [Military] units [in this city] receive the [Blitz] promotion"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured",
+			    "All newly-trained [relevant] units [in this city] receive the [Beseige] promotion",
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
 	}
 ]
