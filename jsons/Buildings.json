@@ -141,6 +141,7 @@
 	},
 	{
 		"name": "Treasure Sandbox",
+		"uniqueTo": "Colziand",
 		"production": 9999,
 		"science": 9999,
 		"gold": 9999,
