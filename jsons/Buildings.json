@@ -103,21 +103,6 @@
 	},
 	// Future Era
 	{
-		"name": "All Districts",
-		"production": 10,
-		"science": 10,
-		"gold": 10,
-		"culture": 10,
-		"faith": 10,
-		"happiness": 10,
-		"cityStrength": 20,
-		"cost": 10000,
-		"greatPersonPoints": {"Great Scientist": 5, "Great General": 5, "Great Engineer": 5, "Great Artist": 5, "Great Merchant": 5, "Great Prophet": 5},
-		"requiredTech": "Future Tech"
-		"maintenance": 20,
-		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
-	},
-	{
 		"name": "Carnival",
 		"happiness": 5,
 		"faith": 5,
@@ -153,5 +138,20 @@
 		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured",
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Treasure Sandbox",
+		"production": 100,
+		"science": 100,
+		"gold": 100,
+		"culture": 100,
+		"faith": 100,
+		"happiness": 100,
+		"cityStrength": 200,
+		"cost": 0,
+		"greatPersonPoints": {"Great Scientist": 50, "Great General": 50, "Great Engineer": 50, "Great Artist": 50, "Great Merchant": 50, "Great Prophet": 50},
+		"requiredTech": "Agriculture"
+		"maintenance": 0,
+		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
 	}
 ]
