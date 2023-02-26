@@ -133,26 +133,11 @@
 		"name": "Stronghold",
 		"uniqueTo": "Colziand",
 		"hurryCostModifier": 35,
+		"production": 1000,
 		"science": 3,
 		"maintenance": 5,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]","Destroyed when the city is captured",
+		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured",
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
-	},
-	{
-		"name": "Treasure Sandbox",
-		"uniqueTo": "Colziand",
-		"production": 9999,
-		"science": 9999,
-		"gold": 9999,
-		"culture": 9999,
-		"faith": 9999,
-		"happiness": 9999,
-		"cityStrength": 9999,
-		"cost": 0,
-		"greatPersonPoints": {"Great Scientist": 9999, "Great General": 9999, "Great Engineer": 9999, "Great Artist": 9999, "Great Merchant": 9999, "Great Prophet": 9999},
-		"requiredTech": "Agriculture"
-		"maintenance": 0,
-		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
 	}
 ]
