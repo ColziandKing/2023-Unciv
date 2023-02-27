@@ -101,34 +101,37 @@
 		"requiredTech": "Telecommunications",
 		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]"]
 	},
-	// Future Era
+	// All Eras
 	{
 		"name": "Carnival",
+		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"faith": 5,
-		"requiredTech": "Future Tech"
+		"requiredTech": "Agriculture"
 		"maintenance": 20,
 	},
 {
 		"name": "Supermarket",
+		"uniqueTo": "Colziand",
 		"food": 5,
 		"culture": 5,
-		"requiredTech": "Future Tech"
+		"requiredTech": "Agriculture"
 		"maintenance": 20,
 	},{
 		"name": "Department Store",
+		"uniqueTo": "Colziand",
 		"production": 5,
 		"gold": 5,
-		"requiredTech": "Future Tech"
+		"requiredTech": "Agriculture"
 		"maintenance": 20,
 	},{
 		"name": "Aquarium",
+		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"science": 5,
-		"requiredTech": "Future Tech"
+		"requiredTech": "Agriculture"
 		"maintenance": 20,
 	},
-	// All Eras
 	{
 		"name": "Stronghold",
 		"uniqueTo": "Colziand",
@@ -150,6 +153,7 @@
 		"happiness": 100,
 		"cityStrength": 200,
 		"cost": 0,
+		"uniqueTo": "Colziand",
 		"greatPersonPoints": {"Great Scientist": 50, "Great General": 50, "Great Engineer": 50, "Great Artist": 50, "Great Merchant": 50, "Great Prophet": 50},
 		"requiredTech": "Agriculture"
 		"maintenance": 0,
