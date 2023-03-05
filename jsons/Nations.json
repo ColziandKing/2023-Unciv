@@ -25,7 +25,8 @@
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Bronze Working]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "Military Units gifted from City-States start with [+100] XP", "[-10]% Culture cost of adopting new Policies", 
-			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States"]
+			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States"],
+		"spyNames": ["Raymond", "Uzaine", "Yolande", "Michael", "Mosab", "Ehud", "Roger", "Mier", "Yigal", "Gamliel"]
 	},
 	{
 		"name": "Israel",
@@ -60,6 +61,67 @@
 		"uniques": ["[+1 Food, +1 Gold, +1 Faith] from every [Pasture]","[+1 Culture, +1 Production, +1 Faith] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
-			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
-	} 
+			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"],
+		"spyNames": ["Joshua", "Caleb", "Yolande", "Michael", "Mosab", "Ehud", "Roger", "Mier", "Yigal", "Gamliel"]
+	},
+	{
+        "name": "Wakanda",
+		"leaderName": "Shuri",
+		"adjective": ["Wakandan"],
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Scientific",
+		"favoredReligion": "Orisha",
+        
+        "startIntroPart1": "10,000 years ago, Wakanda was home to a collection of primitive human tribes. It was during this time a massive meteorite made of a sound and energy absorbing mineral, which would later be known as vibranium crashed to Earth. One of the tribes, led by Bashenga, its mightiest warrior, decided to investigate, believing this to be a gift from the gods. Bashenga prayed to the Panther God to give him the strength to defeat these demons, becoming the first Black Panther and uniting the tribes to form the nation of Wakanda. His lineage would later rule the country for centuries. Now you, T'Challa, are the latest to sit upon his throne.",
+		"startIntroPart2": "For centuries Wakanda has remained in isolation. Now, they are considered the most technologically advanced nation of the planet. Can you uphold their mighty legacy, king T'Challa? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Wakanda forever!",
+		"attacked": "It is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.",
+		"defeated": "It is over for us. What happens now determines what happens to the rest of the world.",
+		"afterPeace": "Our weapons will not be used to wage war on the world. It is not our way to be judge, jury, and executioner for people who are not our own.",
+
+		"introduction": "Greetings from Wakanda. I am T'Challa, king of Africa's greatest people.",		
+		"neutralHello": "Molo unjani (Hello, how are you?)",
+		"hateHello": "What do YOU want?",		
+		"tradeRequest": "We all know the truth: more connects us than separates us. But in times of crisis the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",
+
+		"outerColor": [10,17,10],
+		"innerColor": [145,88,228],
+		"uniqueName": "Vibranium",
+		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
+			"Starts with [Mining]",
+			"Unlock more secrets by building upon the Sacred Mound"],
+		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka",
+			"Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"],
+		"spyNames": ["White Wolf", "Hunter", "Bucky Barnes", "Shuri", "Refaat", "Ahmadou", "Mulu Ken", "Heba", "Ayub", "Wendimu"]
+    	},
+  	{
+		"name": "Korea",
+		"leaderName": "Sejong",
+		"adjective": ["Korean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
+		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
+		"defeated": "Now the question is who will protect my people. A dark age has come.",
+		"introduction": "Welcome to the palace of Choson, stranger. I am the learned King Sejong, who looks after his great people.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you",
+		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
+		"outerColor": [27,33,96],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Scholars of the Jade Hall",
+        "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
+			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
+			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
+        "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Na", "Da", "Eun"]
+    },
+	
   ]
