@@ -57,7 +57,7 @@
 		"outerColor": [	255, 255, 204],
 		"innerColor": [	51, 153, 255],
 		"uniqueName": "Promised Land",
-		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
+		"uniques": ["[+1 Food, +1 Gold, +1 Faith] from every [Pasture]","[+1 Culture, +1 Production, +1 Faith] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
