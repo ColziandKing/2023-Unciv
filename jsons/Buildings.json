@@ -81,6 +81,18 @@
 		"requiredTech": "Radio",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "Mossad",
+		"uniqueTo": "Israel",
+		"replaces": "Broadcast Tower",
+		"culture": 3,
+		"happiness": 3,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 	// Atomic Era
 	{
 		"name": "Salumian Center",
