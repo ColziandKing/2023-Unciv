@@ -107,7 +107,7 @@
 		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"faith": 5,
-		"requiredTech": "Agriculture"
+		"requiredTech": "Future Tech"
 		"maintenance": 20,
 	},
 {
@@ -115,28 +115,28 @@
 		"uniqueTo": "Colziand",
 		"food": 5,
 		"culture": 5,
-		"requiredTech": "Agriculture"
+		"requiredTech": "Future Tech"
 		"maintenance": 20,
 	},{
 		"name": "Department Store",
 		"uniqueTo": "Colziand",
 		"production": 5,
 		"gold": 5,
-		"requiredTech": "Agriculture"
+		"requiredTech": "Future Tech"
 		"maintenance": 20,
 	},{
 		"name": "Aquarium",
 		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"science": 5,
-		"requiredTech": "Agriculture"
+		"requiredTech": "Future Tech"
 		"maintenance": 20,
 	},
 	{
 		"name": "Stronghold",
 		"uniqueTo": "Colziand",
 		"hurryCostModifier": 35,
-		"production": 200,
+		"gold": 200,
 		"science": 3,
 		"maintenance": 5,
 		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured",
@@ -145,13 +145,13 @@
 	},
 	{
 		"name": "Treasure District",
-		"production": 100,
-		"science": 100,
-		"gold": 100,
-		"culture": 100,
-		"faith": 100,
-		"happiness": 100,
-		"cityStrength": 200,
+		"production": 10,
+		"science": 10,
+		"gold": 10,
+		"culture": 10,
+		"faith": 10,
+		"happiness": 10,
+		"cityStrength": 20,
 		"cost": 0,
 		"uniqueTo": "Colziand",
 		"greatPersonPoints": {"Great Scientist": 50, "Great General": 50, "Great Engineer": 50, "Great Artist": 50, "Great Merchant": 50, "Great Prophet": 50},
