@@ -4,3 +4,4 @@
 ## Other mods included
 https://github.com/SpacedOutChicken/Wakanda-for-Unciv
 https://github.com/not-navyblue/Palengke
+https://github.com/DW8030/Modern-Civilizations
