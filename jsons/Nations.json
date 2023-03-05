@@ -26,5 +26,40 @@
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "Military Units gifted from City-States start with [+100] XP", "[-10]% Culture cost of adopting new Policies", 
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States"]
-	}
+	},
+	{
+		"name": "Israel",
+		"leaderName": "David",
+		"adjective": ["Israeli"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Servant of God; David. Your are the one who lead the Israelites after Saul failed God, you are popular for your act on killing the giant Goliath with just a sling and a stone. With a whole heart for God, you started to build the temple of God in which your son, Solomon the wise was able to finished.",
+		"startIntroPart2": "Oh famous king, ancestor of Jesus and child of God. Lead His kingdom once more so that the world may come to know Him.",
+		
+		"declaringWar": "The Lord demands justice!",
+		"attacked": "The Lord presented me your plans. We are prepared!",
+		"defeated":  "Is this how my peaceful reign ends? In a river of blood and suffering...",
+		"introduction":  "I am David, King of the Chosen People. If you seek justice or advice, know that you had found them.",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept!"],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That offer is not just!","That can't be true."],
+		"hateYes": ["I can accept.","Fine.","The Lord told me it will be wise to accept this offer."],
+		
+		"afterPeace": "Praise the Lord as he gives peace!",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [	255, 255, 204],
+		"innerColor": [	51, 153, 255],
+		"uniqueName": "Promised Land",
+		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
+		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
+			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
+			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
+	} 
   ]
