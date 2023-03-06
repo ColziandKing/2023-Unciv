@@ -116,10 +116,11 @@
 	// All Eras
 	{
 		"name": "Carnival",
-		"happiness": 5,
-		"faith": 5,
+		"happiness": 2,
+		"faith": 2,
 		"requiredTech": "Future Tech"
 		"maintenance": 4,
+		"requiredTech": "Plastics
 	},
 	{
         	"name": "Supermarket",
@@ -141,25 +142,17 @@
 		"requiredTech": "Replaceable Parts"
    	},
 	{
-		"name": "Hypermarket",
-		"uniqueTo": "Colziand",
-		"food": 5,
-		"culture": 5,
-		"requiredTech": "Future Tech"
-		"maintenance": 4,
-	},
-	{
 		"name": "Department Store",
-		"production": 5,
-		"gold": 5,
-		"requiredTech": "Future Tech"
+		"production": 2,
+		"gold": 2,
+		"requiredTech": "Electronics"
 		"maintenance": 4,
 	},
 	{
 		"name": "Aquarium",
-		"happiness": 5,
-		"science": 5,
-		"requiredTech": "Future Tech"
+		"happiness": 2,
+		"science": 2,
+		"requiredTech": "Plastics"
 		"maintenance": 4,
 	},
 	{
