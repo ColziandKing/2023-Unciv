@@ -130,13 +130,13 @@
     },
 	{
 		"name": "Philippines",
-		"leaderName": "Crisostomo Ibarra",
+		"leaderName": "Andres Bonifacio",
 		"adjective": ["Filipino"],
 		"favoredReligion": "Christianity",
 		"startBias": ["Coast"],
         	"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Greetings, Supremo Crisostomo Ibarra. Your great intellect and strong understanding of the Filipino plight allowed you to forge numerous successful victories against the Spaniards, wanting to free the nation and knew about the emerging Americans.",
+		"startIntroPart1": "Greetings, Supremo Andres Bonifacio. Your great intellect and strong understanding of the Filipino plight allowed you to forge numerous successful victories against the Spaniards and the Americans.",
 		"startIntroPart2": "Most courageous and magnanimous Supremo, Philippines once again requires the service of a compassionate and determined leader, one who can reunite the country and establish a strong foundation for the years to come. Can you establish your nation through strong civil institutions, or will you work to conquer your enemies through the use of force? Can you build a civilization that will stand the test of time?",
 		"declaringWar": "Your ways have been revealed. Time to fight for what is ours!",
 		"attacked": "This insolence will cost you dearly!",
@@ -153,6 +153,6 @@
 		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
 			"San José de Buenavista","Iba","Dumaguete","Calapan","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Cagayán","Binorungan","Bangued","Laoag"],
-		"spyNames": ["Klay", "Fidel", "Elias", "Basilio", "Salome", "Patrocinio", "Josefina", "Chick", "Claire", "Magdalena"]
+		"spyNames": ["Crisostomo", "Klay", "Fidel", "Elias", "Basilio", "Patrocinio", "Josefina", "Chick", "Claire", "Magdalena"]
 	}
   ]
