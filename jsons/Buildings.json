@@ -116,33 +116,51 @@
 	// All Eras
 	{
 		"name": "Carnival",
-		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"faith": 5,
 		"requiredTech": "Future Tech"
-		"maintenance": 20,
+		"maintenance": 4,
 	},
-{
-		"name": "Supermarket",
+	{
+        	"name": "Supermarket",
+        	"cost": 400,
+		"food": 2,
+		"production": 2,
+		"maintenance": 4,
+		"percentStatBonus": {"gold": 10},
+		"requiredTech": "Replaceable Parts"
+   	},
+	{
+        	"name": "Mall",
+		"uniqueTo": "Colziand",
+        	"cost": 400,
+		"food": 2,
+		"culture": 2,
+		"maintenance": 4,
+		"percentStatBonus": {"gold": 20},
+		"requiredTech": "Replaceable Parts"
+   	},
+	{
+		"name": "Hypermarket",
 		"uniqueTo": "Colziand",
 		"food": 5,
 		"culture": 5,
 		"requiredTech": "Future Tech"
-		"maintenance": 20,
-	},{
+		"maintenance": 4,
+	},
+	{
 		"name": "Department Store",
-		"uniqueTo": "Colziand",
 		"production": 5,
 		"gold": 5,
 		"requiredTech": "Future Tech"
-		"maintenance": 20,
-	},{
+		"maintenance": 4,
+	},
+	{
 		"name": "Aquarium",
-		"uniqueTo": "Colziand",
 		"happiness": 5,
 		"science": 5,
 		"requiredTech": "Future Tech"
-		"maintenance": 20,
+		"maintenance": 4,
 	},
 	{
 		"name": "Stronghold",
@@ -176,6 +194,6 @@
         	"isNationalWonder": "true",
 		"uniqueTo": "Israel",
         	"cost": -1,
-        	"uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","Requires a [Palace] in this city","Will not be displayed in Civilopedia"],     
+        	"uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","Only available [Palace] in this city","Will not be displayed in Civilopedia"],     
    	 }
 ]
