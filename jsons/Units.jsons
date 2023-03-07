@@ -136,5 +136,30 @@
 			"[+400]% Strength <during the [Future era]>",
 			"[+1] Movement <starting from the [Information era]>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Black Panther",
+		"unitType": "Sword",
+		"uniqueTo": "Wakanda",
+		"movement": 2,
+		"strength": 20,
+		"cost": 500,
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [3] per Civilization",
+			"Only available <in cities with a [Sacred Mound]>",
+			"[+50]% XP gained from combat",
+			"Heals [25] damage if it kills a unit",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			"[+1] Movement <starting from the [Information era]>"],
+		"attackSound": "metalhit"
 	}
   ]
