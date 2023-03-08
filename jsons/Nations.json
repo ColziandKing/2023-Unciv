@@ -25,7 +25,8 @@
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Bronze Working]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "Military Units gifted from City-States start with [+100] XP", "[-10]% Culture cost of adopting new Policies", 
-			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States"],
+			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States",
+			    "May choose [1] additional belief(s) of any type when [founding] a religion"],
 		"spyNames": ["Raymond", "Uzaine", "Yolande", "Michael", "Mosab", "Ehud", "Roger", "Mier", "Yigal", "Gamliel"]
 	},
 	{
