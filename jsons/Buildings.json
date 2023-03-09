@@ -16,7 +16,7 @@
 		"uniques": ["Free Social Policy","Only available [Palace] in this city","Gain a free [Stele] [in this city]","Gain a free [Pyramid] [in this city]",
 			   "Gain a free [Paper Maker] [in this city]","Gain a free [Walls of Babylon] [in this city]","Gain a free [Floating Gardens] [in this city]",
 			   "Gain a free [Burial Tomb] [in this city]","Gain a free [Bazaar] [in this city]","Gain a free [Mud Pyramid Mosque] [in this city]",
-			   "[1] free [Companion Cavalry] units appear","[1] free [Legion] units appear","[1] free [Ballista] units appear",],
+			   "[1] free [Companion Cavalry] units appear","[1] free [Legion] units appear","[1] free [Ballista] units appear"],
 	},
 	// Classic Era
 {
@@ -35,7 +35,7 @@
 		"uniques": ["Free Technology","Only available [Palace] in this city","Only available <if [Kingdom Hall] is constructed>",
 			   "Gain a free [Wat] [in this city]","Gain a free [Longhouse] [in this city]","Gain a free [Mughal Fort] [in this city]",
 			   "[1] free [Conquistador] units appear","[1] free [Keshik] units appear","[1] free [Chu-Ko-Nu] units appear",
-			   "[1] free [Longbowman] units appear","[1] free [Samurai] units appear",],
+			   "[1] free [Longbowman] units appear","[1] free [Samurai] units appear"],
 	},
 	// Medieval Era
 	{
@@ -68,7 +68,7 @@
 		"percentStatBonus": {"gold": 30},
 		"requiredBuilding": "Market",
 		"uniques": ["[1] free [Norwegian Ski Infantry] units appear","[1] free [Mehal Sefari] units appear","[1] free [Cossack] units appear",
-			   "[1] free [Hussar] units appear","[1] free [Carolean] units appear",],
+			   "[1] free [Hussar] units appear","[1] free [Carolean] units appear"],
 		"requiredTech": "Banking"
 	},
 	// Industrial Era
@@ -90,7 +90,7 @@
 		"requiredBuilding": "Museum",
 		"maintenance": 4,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured","[1] free [Zero] units appear","[1] free [B17] units appear","[1] free [Panzer] units appear",]
+		"uniques": ["Destroyed when the city is captured","[1] free [Zero] units appear","[1] free [B17] units appear","[1] free [Panzer] units appear"]
 	},
 	{
 		"name": "Mossad",
