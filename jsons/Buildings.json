@@ -180,7 +180,7 @@
 		"greatPersonPoints": {"Great Scientist": 50, "Great General": 50, "Great Engineer": 50, "Great Artist": 50, "Great Merchant": 50, "Great Prophet": 50},
 		"requiredTech": "Agriculture"
 		"maintenance": 0,
-		"uniques": ["Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
+		"uniques": ["Only available [Palace] in this city","Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
 	},
 	{
         	"name": "More Resources",
