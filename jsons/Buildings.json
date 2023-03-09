@@ -13,7 +13,9 @@
 		"uniqueTo": "Colziand",
 		"isNationalWonder": true,
 		"requiredTech": "Iron Working"
-		"uniques": ["Free Social Policy","Only available [Palace] in this city"],
+		"uniques": ["Free Social Policy","Only available [Palace] in this city","Gain a free [Stele] [in this city]","Gain a free [Krepost] [in this city]",
+			   "Gain a free [Paper Maker] [in this city]","Gain a free [Pyramid] [in this city]","Gain a free [Floating Gardens] [in this city]",
+			   "Gain a free [Walls of Babylon] [in this city]","Gain a free [Stele] [in this city]","Gain a free [Stele] [in this city]",],
 	},
 	// Classic Era
 {
@@ -46,7 +48,7 @@
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
-		"uniques": ["Only available [Palace] in this city","Only available <if [Empire Atrium] is constructed>","Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
+		"uniques": ["Only available [Palace] in this city","Only available <if [Empire Atrium] is constructed>"],
 	},
 	// Renaissance Era
 	{
@@ -162,7 +164,7 @@
 		"gold": 200,
 		"science": 3,
 		"maintenance": 5,
-		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured",
+		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
 			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
 		"requiredTech": "Bronze Working"
 	},
