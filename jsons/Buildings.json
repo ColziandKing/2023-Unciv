@@ -15,7 +15,8 @@
 		"requiredTech": "Iron Working"
 		"uniques": ["Free Social Policy","Only available [Palace] in this city","Gain a free [Stele] [in this city]","Gain a free [Pyramid] [in this city]",
 			   "Gain a free [Paper Maker] [in this city]","Gain a free [Walls of Babylon] [in this city]","Gain a free [Floating Gardens] [in this city]",
-			   "Gain a free [Burial Tomb] [in this city]","Gain a free [Bazaar] [in this city]","Gain a free [Mud Pyramid Mosque] [in this city]"],
+			   "Gain a free [Burial Tomb] [in this city]","Gain a free [Bazaar] [in this city]","Gain a free [Mud Pyramid Mosque] [in this city]",
+			   "[1] free [Companion Cavalry] units appear","[1] free [Legion] units appear","[1] free [Ballista] units appear",],
 	},
 	// Classic Era
 {
@@ -31,7 +32,10 @@
 		"cost": 500,
 		"uniqueTo": "Colziand",
 		"requiredTech": "Metal Casting"
-		"uniques": ["Free Technology","Only available [Palace] in this city","Only available <if [Kingdom Hall] is constructed>"],
+		"uniques": ["Free Technology","Only available [Palace] in this city","Only available <if [Kingdom Hall] is constructed>",
+			   "Gain a free [Wat] [in this city]","Gain a free [Longhouse] [in this city]","Gain a free [Mughal Fort] [in this city]",
+			   "[1] free [Conquistador] units appear","[1] free [Keshik] units appear","[1] free [Chu-Ko-Nu] units appear",
+			   "[1] free [Longbowman] units appear","[1] free [Samurai] units appear",],
 	},
 	// Medieval Era
 	{
@@ -48,7 +52,10 @@
 		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
 		"uniqueTo": "Colziand",
 		"requiredTech": "Steel"
-		"uniques": ["Only available [Palace] in this city","Only available <if [Empire Atrium] is constructed>"],
+		"uniques": ["Only available [Palace] in this city","Only available <if [Empire Atrium] is constructed>","Gain a free [Ceilidh Hall] [in this city]",
+			   "Gain a free [Satrap's Court] [in this city]","Gain a free [Coffee House] [in this city]","[1] free [Janissary] units appear",
+			   "[1] free [Sea Beggar] units appear","[1] free [Ship of the Line] units appear","[1] free [Sipahi] units appear",
+			   "[1] free [Hakkapeliitta] units appear","[1] free [Turtle Ship] units appear"],
 	},
 	// Renaissance Era
 	{
@@ -60,6 +67,8 @@
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 30},
 		"requiredBuilding": "Market",
+		"uniques": ["[1] free [Norwegian Ski Infantry] units appear","[1] free [Mehal Sefari] units appear","[1] free [Cossack] units appear",
+			   "[1] free [Hussar] units appear","[1] free [Carolean] units appear",],
 		"requiredTech": "Banking"
 	},
 	// Industrial Era
@@ -69,7 +78,7 @@
 		"hurryCostModifier": 0,
 		"maintenance": 2,
 		"requiredBuilding": "Armory",
-		"uniques": ["New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [50] Experience [in this city]", "Destroyed when the city is captured", "[1] free [Foreign Legion] units appear"],
 		"requiredTech": "Military Science"
 	},
 	// Modern Era
@@ -81,7 +90,7 @@
 		"requiredBuilding": "Museum",
 		"maintenance": 4,
 		"requiredTech": "Radio",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","[1] free [Zero] units appear","[1] free [B17] units appear","[1] free [Panzer] units appear",]
 	},
 	{
 		"name": "Mossad",
@@ -182,7 +191,8 @@
 		"greatPersonPoints": {"Great Scientist": 50, "Great General": 50, "Great Engineer": 50, "Great Artist": 50, "Great Merchant": 50, "Great Prophet": 50},
 		"requiredTech": "Agriculture"
 		"maintenance": 0,
-		"uniques": ["Only available [Palace] in this city","Free [Great Prophet], [Great Scientist], [Great General], [Great Engineer], [Great Artist], [Great Artist] appears"],
+		"uniques": ["Only available [Palace] in this city","[1] free [War Elephant] units appear",
+		           "[1] free [Persian Immortal] units appear","[1] free [Battering Ram] units appear"],
 	},
 	{
         	"name": "More Resources",
