@@ -13,9 +13,9 @@
 		"uniqueTo": "Colziand",
 		"isNationalWonder": true,
 		"requiredTech": "Iron Working"
-		"uniques": ["Free Social Policy","Only available [Palace] in this city","Gain a free [Stele] [in this city]","Gain a free [Krepost] [in this city]",
-			   "Gain a free [Paper Maker] [in this city]","Gain a free [Pyramid] [in this city]","Gain a free [Floating Gardens] [in this city]",
-			   "Gain a free [Walls of Babylon] [in this city]","Gain a free [Stele] [in this city]","Gain a free [Stele] [in this city]",],
+		"uniques": ["Free Social Policy","Only available [Palace] in this city","Gain a free [Stele] [in this city]","Gain a free [Pyramid] [in this city]",
+			   "Gain a free [Paper Maker] [in this city]","Gain a free [Walls of Babylon] [in this city]","Gain a free [Floating Gardens] [in this city]",
+			   "Gain a free [Burial Tomb] [in this city]","Gain a free [Bazaar] [in this city]","Gain a free [Mud Pyramid Mosque] [in this city]"],
 	},
 	// Classic Era
 {
@@ -165,7 +165,7 @@
 		"science": 3,
 		"maintenance": 5,
 		"uniques": ["New [Military] units start with [1000] Experience [in this city]","Destroyed when the city is captured","[1] free [Khan] units appear",
-			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion"],
+			    "All newly-trained [relevant] units [in this city] receive the [Blitz] promotion","Gain a free [Krepost] [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
 	{
